@@ -1,0 +1,72 @@
+---
+interface Props {
+  title: string;
+}
+
+const { title } = Astro.props;
+---
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="description" content="Astro description" />
+    <meta name="viewport" content="width=device-width" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <meta name="generator" content={Astro.generator} />
+    <title>{title}</title>
+  </head>
+  <body>
+    <slot />
+  </body>
+</html>
+<style is:global>
+  :root {
+    --accent: 136, 58, 234;
+    --accent-light: 224, 204, 250;
+    --accent-dark: 49, 10, 101;
+    --accent-gradient: linear-gradient(
+      45deg,
+      rgb(var(--accent)),
+      rgb(var(--accent-light)) 30%,
+      white 60%
+    );
+  }
+  html {
+    font-family: system-ui, sans-serif;
+    background-image: linear-gradient(
+  0deg,
+  hsl(240deg 37% 89%) 0%,
+  hsl(240deg 37% 90%) 5%,
+  hsl(240deg 37% 91%) 11%,
+  hsl(240deg 37% 91%) 16%,
+  hsl(240deg 37% 92%) 21%,
+  hsl(240deg 37% 92%) 26%,
+  hsl(240deg 37% 93%) 32%,
+  hsl(241deg 37% 93%) 37%,
+  hsl(241deg 37% 94%) 42%,
+  hsl(241deg 37% 94%) 47%,
+  hsl(241deg 37% 95%) 53%,
+  hsl(241deg 37% 96%) 58%,
+  hsl(241deg 38% 96%) 63%,
+  hsl(241deg 38% 97%) 68%,
+  hsl(241deg 38% 97%) 74%,
+  hsl(241deg 38% 98%) 79%,
+  hsl(241deg 38% 98%) 84%,
+  hsl(241deg 38% 99%) 89%,
+  hsl(241deg 38% 99%) 95%,
+  hsl(0deg 0% 100%) 100%
+);
+  }
+  code {
+    font-family:
+      Menlo,
+      Monaco,
+      Lucida Console,
+      Liberation Mono,
+      DejaVu Sans Mono,
+      Bitstream Vera Sans Mono,
+      Courier New,
+      monospace;
+  }
+</style>
