@@ -1,0 +1,77 @@
+\documentclass[letterpaper]{article}
+\documentclass{article}
+\usepackage[letterpaper,top=2cm,bottom=2cm,left=3cm,right=3cm,marginparwidth=1.75cm]{geometry}
+\usepackage{tikz}
+\usetikzlibrary{automata, arrows.meta, positioning}
+\usepackage{amsmath}
+\usepackage{graphicx}
+\usepackage[colorlinks=true, allcolors=blue]{hyperref}
+\usepackage[spanish]{babel}
+
+% PAQUETES %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\usepackage[utf8]{inputenc}
+\usepackage{geometry}
+    \geometry{left=3cm,right=2cm,top=2cm,bottom=2cm}
+%
+\usepackage[spanish]{babel}
+%
+\usepackage[fixlanguage]{babelbib}
+    \bibliographystyle{babunsrt}
+%
+\usepackage{url}
+
+
+% ENCABEZADO %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\title{Proyecto y legislación}
+\author{Grupo 2 A}
+\date{2º Cuatrimestre}
+
+
+\begin{document}
+\begin{titlepage}
+\centering
+\begin{figure}
+\centering
+{\bfseries\LARGE Escuela técnica superior\par}
+\vspace{0.5cm}
+{\scshape\Large Facultad de Ingeniería Informática\par}
+\vspace{2cm}
+\centering
+\begin{Huge}
+\begin{center}
+\includegraphics[scale=0.1]{src/img/logo.png} 
+\vspace{2cm}
+\end{center}
+
+\end{Huge}
+\end{figure}
+
+
+{\scshape\Huge Práctica 1\par}
+{\scshape\Large I+D en TIC\par}
+\vspace{8cm}
+{\Large Grupo 2\par}
+{\Large 4º Informática A\par}
+\vfill
+
+\end{titlepage}
+\clearpage\hbox{}\thispagestyle{empty}\newpage
+
+%-------------------------- EJERCICIO 1 ----------------------
+
+\tableofcontents
+\newpage
+
+\section {Programas}
+\section{Descripción y objetivos de estos programas, a quienes van dirigidos, de donde proviene la financiación, que clases de servicios proporcionan}
+\section{Organismos institucionales que velan por que se cumplan las medidas}
+\section{Acceso al portal}
+\section{Procedimiento de solicitud}
+\section{Eventoso anuales}
+
+\newpage
+  % REFERENCIAS %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+    \nocite{*}
+    \bibliography{src/referencias}
+
+\end{document}
