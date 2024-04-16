@@ -7,6 +7,7 @@
 \usepackage{graphicx}
 \usepackage[colorlinks=true, allcolors=blue]{hyperref}
 \usepackage[spanish]{babel}
+\usepackage{eurosym}
 
 % PAQUETES %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \usepackage[utf8]{inputenc}
@@ -39,7 +40,7 @@
 \centering
 \begin{Huge}
 \begin{center}
-\includegraphics[scale=0.1]{src/img/logo.png} 
+\includegraphics[scale=0.1]{src/img/logo.png}
 \vspace{2cm}
 \end{center}
 
@@ -62,12 +63,64 @@
 \tableofcontents
 \newpage
 
-\section {Programas}
-\section{Descripción y objetivos de estos programas, a quienes van dirigidos, de donde proviene la financiación, que clases de servicios proporcionan}
+\section {Programas, Descripción y objetivos de estos programas, a quienes van dirigidos, de donde proviene la financiación, que clases de servicios proporcionan}
+
+En el contexto de la Unión Europea, el programa principal para el fomento del I+D es el programa Marco \cite{HaciendaGob:web}. Éste tiene como principal objetivo la mejora de la competitividad mediante la financiación de actividades de investigación, desarrollo tecnológico, demostración e innovación en régimen de colaboración transnacional entre empresas e instituciones de investigación pertenecientes tanto a los países de la Unión Europea y Estados Asociados como de terceros países. Además, presta apoyo financiero a la mejora y coordinación de las infraestructuras de investigación europeas, a la promoción y formación del personal investigador, la investigación básica y a la coordinación de los programas nacionales de I+D y a la puesta en funcionamiento de plataformas tecnológicas europeas.
+
+
+
+Destacamos los dos programas más recientes: el Horizonte 2020 (2014-2020), y el actual Horizonte Europa (2021-2027). En el caso de Horizonte 2020, contó con una financiación de 76.880 M\euro   y sus objetivos estratégicos \cite{HorizonteEuropa:web} fueron:
+
+
+\begin{itemize}
+    \item Crear una ciencia de excelencia, que permita reforzar la posición de la UE en el panorama científico mundial.
+    \item Se ha incrementado la dotación  del Consejo Europeo de Investigación, que subvenciona a investigadores europeos y se amplía el campo de las tecnologías futuras.
+    \item Se han mantenido las actividades de Marie Curie para apoyar la formación, la movilidad y la cualificación de investigadores y las infraestructuras de investigación
+    \item Desarrollar tecnologías y aplicaciones para mejorar la competitividad europea.
+\end{itemize}
+
+
+El programa Horizonte Europa \cite{RedIdi:web} se centra más en el I + I (investigación e innovación), dando mayor importancia también al impacto social para poder abordar los Objetivos de Desarrollo Sostenible de las Naciones Unidas a través de Misiones de Investigación. El programa se basa en cuatro pilares interrelacionados: ciencia excelente; desafíos mundiales y competitividad industrial europea; Europa innovadora y ampliación de la participación y refuerzo del Espacio Europeo de Investigación. Las misiones definidas son:
+\begin{itemize}
+    \item Adaptación al cambio climático, incluida la transformación social
+    \item Cáncer
+    \item  Ciudades climáticamente neutras e inteligentes
+    \item Océanos, mares, aguas costeras e interiores saludables
+    \item La salud del suelo y la alimentación
+\end{itemize}
+
+ Con un aumento de presupuesto hasta los 95.500 M \euro \cite{ConsejoEuropeo:web}, de los cuales 5.400 M\euro proceden del instrumento «Next Generation EU» \cite{NextGeneration:web}, un fondo de recuperación temporal motivado por el Covid-19 para ayudar a los países integrantes de la Unión Europea a recuperarse de las consecuencias económicas y sociales de la pandemia.
+
+
+
+\newpage
 \section{Organismos institucionales que velan por que se cumplan las medidas}
 \section{Acceso al portal}
 \section{Procedimiento de solicitud}
-\section{Eventoso anuales}
+\newpage
+\section{Eventos anuales}
+\subsection{Introducción}
+La unión Europea impulsa la innovación, el crecimiento económico y el bienestar social, por ello, organiza y apoya una amplia gama de eventos anuales centrados en I+D en TIC, reuniendo investigadores, innovadores, empresarios, etc.
+
+\subsection{Objetivos de los Eventos}
+\begin{itemize}
+    \item Promover la colaboración y el intercambio de conocimientos: Se fomenta la interacción entre los participantes de los eventos, facilitando el intercambio de ideas, experiencias.
+    \item Establecer redes y asociaciones: Se brinda la oportunidad de construir relaciones profesionales con el fin de establecer colaboraciones entre distintos sectores TIC
+    \item Influir en las políticas y estrategias de la UE: Sirve a la comunidad TIC para aportar conocimientos y perspectivas a la elaboración de planes políticos y estrategias de la UE
+    \item Sensibilizar sobre la importancia de las TIC: Contribuyen a aumentar la conciencia política sobre el impacto delas TIC en la sociedad y la economía
+\end{itemize}
+\subsection{Tipos de Eventos}
+La UE organiza y apoya una variedad de eventos anuales de I+D en TIC, que incluyen:
+\begin{itemize}
+    \item Conferencias y Cumbres : Global DIGITAL FUTUREcongress\cite{digital-global:web}
+    \item Ferias y exposiciones: 4YFN24 \cite{4YFN:web}
+    \item Talleres y seminarios
+    \item Premios y reconomientos
+\end{itemize}
+
+
+
+
 
 \newpage
   % REFERENCIAS %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
