@@ -40,7 +40,7 @@
 \centering
 \begin{Huge}
 \begin{center}
-\includegraphics[scale=0.1]{src/img/logo.png}
+\includegraphics[scale=0.1]{src/img/logo.png} 
 \vspace{2cm}
 \end{center}
 
@@ -65,36 +65,45 @@
 
 \section {Programas, Descripción y objetivos de estos programas, a quienes van dirigidos, de donde proviene la financiación, que clases de servicios proporcionan}
 
-En el contexto de la Unión Europea, el programa principal para el fomento del I+D es el programa Marco \cite{HaciendaGob:web}. Éste tiene como principal objetivo la mejora de la competitividad mediante la financiación de actividades de investigación, desarrollo tecnológico, demostración e innovación en régimen de colaboración transnacional entre empresas e instituciones de investigación pertenecientes tanto a los países de la Unión Europea y Estados Asociados como de terceros países. Además, presta apoyo financiero a la mejora y coordinación de las infraestructuras de investigación europeas, a la promoción y formación del personal investigador, la investigación básica y a la coordinación de los programas nacionales de I+D y a la puesta en funcionamiento de plataformas tecnológicas europeas.
+En el contexto de la Unión Europea, el programa principal para el fomento del I+D es el programa Marco \cite{HaciendaGob:web}. Éste tiene como principal objetivo la mejora de la competitividad mediante la financiación de actividades de investigación, desarrollo tecnológico, demostración e innovación en régimen de colaboración transnacional entre empresas e instituciones de investigación pertenecientes tanto a los países de la Unión Europea y Estados Asociados como de terceros países. Además, presta apoyo financiero a la mejora y coordinación de las infraestructuras de investigación europeas, a la promoción y formación del personal investigador, la investigación básica y a la coordinación de los programas nacionales de I+D y a la puesta en funcionamiento de plataformas tecnológicas europeas. 
 
+ 
 
+Destacamos los dos programas más recientes: el Horizonte 2020 (2014-2020), y el actual Horizonte Europa (2021-2027). En el caso de Horizonte 2020, contó con una financiación de 76.880 M\euro   y sus objetivos estratégicos \cite{HorizonteEuropa:web} fueron: 
 
-Destacamos los dos programas más recientes: el Horizonte 2020 (2014-2020), y el actual Horizonte Europa (2021-2027). En el caso de Horizonte 2020, contó con una financiación de 76.880 M\euro   y sus objetivos estratégicos \cite{HorizonteEuropa:web} fueron:
-
-
+ 
 \begin{itemize}
     \item Crear una ciencia de excelencia, que permita reforzar la posición de la UE en el panorama científico mundial.
-    \item Se ha incrementado la dotación  del Consejo Europeo de Investigación, que subvenciona a investigadores europeos y se amplía el campo de las tecnologías futuras.
-    \item Se han mantenido las actividades de Marie Curie para apoyar la formación, la movilidad y la cualificación de investigadores y las infraestructuras de investigación
-    \item Desarrollar tecnologías y aplicaciones para mejorar la competitividad europea.
+    \item Se ha incrementado la dotación  del Consejo Europeo de Investigación, que subvenciona a investigadores europeos y se amplía el campo de las tecnologías futuras. 
+    \item Se han mantenido las actividades de Marie Curie para apoyar la formación, la movilidad y la cualificación de investigadores y las infraestructuras de investigación 
+    \item Desarrollar tecnologías y aplicaciones para mejorar la competitividad europea. 
 \end{itemize}
+    
 
-
-El programa Horizonte Europa \cite{RedIdi:web} se centra más en el I + I (investigación e innovación), dando mayor importancia también al impacto social para poder abordar los Objetivos de Desarrollo Sostenible de las Naciones Unidas a través de Misiones de Investigación. El programa se basa en cuatro pilares interrelacionados: ciencia excelente; desafíos mundiales y competitividad industrial europea; Europa innovadora y ampliación de la participación y refuerzo del Espacio Europeo de Investigación. Las misiones definidas son:
+El programa Horizonte Europa \cite{RedIdi:web} se centra más en el I + I (investigación e innovación), dando mayor importancia también al impacto social para poder abordar los Objetivos de Desarrollo Sostenible de las Naciones Unidas a través de Misiones de Investigación. El programa se basa en cuatro pilares interrelacionados: ciencia excelente; desafíos mundiales y competitividad industrial europea; Europa innovadora y ampliación de la participación y refuerzo del Espacio Europeo de Investigación. Las misiones definidas son: 
 \begin{itemize}
-    \item Adaptación al cambio climático, incluida la transformación social
+    \item Adaptación al cambio climático, incluida la transformación social 
     \item Cáncer
-    \item  Ciudades climáticamente neutras e inteligentes
-    \item Océanos, mares, aguas costeras e interiores saludables
-    \item La salud del suelo y la alimentación
+    \item  Ciudades climáticamente neutras e inteligentes 
+    \item Océanos, mares, aguas costeras e interiores saludables 
+    \item La salud del suelo y la alimentación 
 \end{itemize}
+    
+ Con un aumento de presupuesto hasta los 95.500 M \euro \cite{ConsejoEuropeo:web}, de los cuales 5.400 M\euro proceden del instrumento «Next Generation EU» \cite{NextGeneration:web}, un fondo de recuperación temporal motivado por el Covid-19 para ayudar a los países integrantes de la Unión Europea a recuperarse de las consecuencias económicas y sociales de la pandemia. 
 
- Con un aumento de presupuesto hasta los 95.500 M \euro \cite{ConsejoEuropeo:web}, de los cuales 5.400 M\euro proceden del instrumento «Next Generation EU» \cite{NextGeneration:web}, un fondo de recuperación temporal motivado por el Covid-19 para ayudar a los países integrantes de la Unión Europea a recuperarse de las consecuencias económicas y sociales de la pandemia.
 
 
+ \section{Organismos institucionales que velan por que se cumplan las medidas}Varios organismos institucionales en la Unión Europea supervisan y fomentan la investigación y el desarrollo (I+D) en tecnologías de la información y las comunicaciones \cite{CE:web}. Estos organismos son responsables de garantizar que las medidas y políticas relacionadas con la I+D en el ámbito de las TIC sean cumplidas. Algunos de estos son:
+
+\begin{itemize}
+    \item La Comisión Europea \cite{CE:web}: es el órgano ejecutivo de la UE y tiene un papel importante en promover y supervisar la I+D en general, incluidas las TIC. La CE crea políticas, programas y fondos para fomentar la investigación y la innovación en toda Europa. La CE se ocupa específicamente de las políticas relacionadas con las TIC a través de su Dirección General de Redes de Comunicación, Contenido y Tecnología (DG CONNECT).
+    \item La Agencia Ejecutiva de Investigación \cite{REA:web}: administra programas de investigación y desarrollo en una amplia variedad de campos, como las TIC. La agencia se encarga de supervisar y llevar a cabo proyectos de investigación financiados por la UE y garantizar que se cumplan los objetivos y las normas establecidas.
+    \item La Agencia Europea de Redes y Seguridad de la Información \cite{ENISA:web}: se especializa en la seguridad de las TIC. El objetivo principal es aumentar la seguridad cibernética en Europa mediante la promoción de la cooperación entre los países miembros y la difusión de prácticas exitosas en la protección de la información y las redes.
+    \item Instituto Europeo de Innovación y Tecnología \cite{EIT:web}: es un esfuerzo de la UE para fomentar la innovación y la competitividad en Europa. El EIT fomenta la colaboración entre empresas, universidades y centros de investigación en áreas estratégicas, como las TIC, a través de sus "Comunidades de Conocimiento e Innovación" (KICs) temáticas.
+
+\end{itemize}
 
 \newpage
-\section{Organismos institucionales que velan por que se cumplan las medidas}
 \section{Acceso al portal}
 \section{Procedimiento de solicitud}
 \newpage
